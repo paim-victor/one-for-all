@@ -136,17 +136,17 @@ CREATE TABLE SpotifyClone.seguidores (
     
     INSERT INTO SpotifyClone.seguidores (usuario_id, artista_id)
     VALUES
-    (1, 4),
     (1, 1),
-    (1, 6),
-    (2, 6),
+    (1, 2),
+    (1, 3),
+    (2, 1),
     (2, 3),
-    (3, 6),
-    (3, 1),
+    (3, 2),
     (4, 4),
-    (5, 4),
-    (5, 2),
-    (6, 3),
+    (5, 5),
+    (5, 6),
+    (6, 6),
     (6, 1),
-    (7, 2),
-    (8, 2);
+    (7, 6),
+    (9, 6),
+    (10, 2);
