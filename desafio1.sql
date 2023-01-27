@@ -121,7 +121,7 @@ CREATE TABLE SpotifyClone.seguidores (
     (1, 2),
     (1, 10),
     (2, 10),
-    (1, 7),
+    (2, 7),
     (3, 10),
     (3, 2),
     (4, 8),
