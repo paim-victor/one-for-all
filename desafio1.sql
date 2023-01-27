@@ -75,7 +75,7 @@ CREATE TABLE SpotifyClone.seguidores (
     ('Beyoncé'),
     ('Queen'),
     ('Elis Regina'),
-    ('Baco'),
+    ('Baco Exu do Blues'),
     ('Blind Guardian'),
     ('Nina Simone');
     
@@ -99,8 +99,8 @@ CREATE TABLE SpotifyClone.seguidores (
     ('Hot Space', 2, 1982),
     ('Falso Brilhante', 3, 1998),
     ('Vento de Maio', 3, 2001),
-    ('QVVJFA', 4, 2003),
-    ('Somewhere Far Beyo', 5, 2007),
+    ('QVVJFA?', 4, 2003),
+    ('Somewhere Far Beyond', 5, 2007),
     ('I Put A Spell On You', 6, 2012);
 
   INSERT INTO SpotifyClone.cancoes (nome_cancao, album_id, duracao_segundos)
@@ -149,5 +149,5 @@ CREATE TABLE SpotifyClone.seguidores (
     (6, 6),
     (6, 1),
     (7, 6),
-    (9, 6),
+    (9, 3),
     (10, 2);
